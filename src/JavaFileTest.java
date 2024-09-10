@@ -3,7 +3,7 @@ public class JavaFileTest {
     int code;
 
     public JavaFileTest(){
-
+        int j = [(Integer.parseInt("12"))];
     }
 
     public String getName() {
